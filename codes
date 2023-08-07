@@ -1,0 +1,10 @@
+// Sum of two integer
+class Sum 
+{
+    public static void main(String[] args) 
+    {
+        int r=2,a=3,l;
+        l=r+a;
+        System.out.print(l);
+    }
+}
